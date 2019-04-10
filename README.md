@@ -3,3 +3,4 @@ Those dataset are collected by SKetchX (http://sketchx.eecs.qmul.ac.uk/) and PRI
 For more works about sketches, you can go to http://sketchx.eecs.qmul.ac.uk/
 
 The data format is [\(\delta \) x,\delta y, pen state,group id]
+\( \delta \)
