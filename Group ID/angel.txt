@@ -1,0 +1,8 @@
+halo
+eye,lash
+nose
+mouth
+head,ear
+body
+arms,legs
+wings

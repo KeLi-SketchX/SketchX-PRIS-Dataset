@@ -1,0 +1,4 @@
+roof
+body
+windows
+door
